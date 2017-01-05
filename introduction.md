@@ -5,7 +5,7 @@ layout: page
 
 <!-- The differences between a preface and intro: "A preface or foreword deals with the genesis, purpose, limitations, and scope of the book and may include acknowledgments of indebtedness; an introduction deals with the subject of the book, supplementing and introducing the text and indicating a point of view to be adopted by the reader. The introduction usually forms a part of the text [and the text numbering system]; the preface does not." (In other words, the arabic numbering of the book (1,2,3) starts with the introduction, if there is one. The other front matter takes i, ii, iii, etc.)
 
-This book presents a radical new psychology that will end human suffering in the way early psychologists originally hoped: simply, naturally, rationally.
+This book is presenting a radical new psychology that will end human suffering in the way early psychologists originally hoped: simply, naturally, rationally.
 
 [Of course, you can't start a book like that. Everyone knows such a goal is hopeless, the stuff of megalomaniacs, cult leaders, and confidence men. Suffering is not a problem to be solved. It's how life is. Get hip.]
 
